@@ -73,7 +73,7 @@ while True:
             print("\033[1m\033[31mNo hay usuarios para modificar")
 
     elif opciones == 5:
-        print("\033[1m\n\033[1m35mSaliendo del programa")
+        print("\033[1m\n\033[31mSaliendo del programa")
         break
 
     else:
